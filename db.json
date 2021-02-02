@@ -13,13 +13,6 @@
       "tech": "Tom Hansen",
       "date": "2021-02-02T16:53:31.324Z",
       "id": 2
-    },
-    {
-      "message": "test",
-      "attention": true,
-      "tech": "Sam Doe",
-      "date": "2021-02-02T16:54:13.657Z",
-      "id": 3
     }
   ],
   "techs": [
