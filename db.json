@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "Change cabel",
+      "id": 1,
+      "message": "Change cabel now!!",
       "attention": false,
       "tech": "Sam Doe",
-      "date": "2021-02-02T16:52:58.167Z",
-      "id": 1
+      "date": "2021-02-06T12:51:31.494Z"
     },
     {
+      "id": 2,
       "message": "Harddrive failed",
-      "attention": false,
+      "attention": true,
       "tech": "Tom Hansen",
-      "date": "2021-02-02T16:53:31.324Z",
-      "id": 2
+      "date": "2021-02-06T12:51:43.230Z"
     }
   ],
   "techs": [
